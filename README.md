@@ -1,2 +1,9 @@
-# Proyecto_final_python_basico_kodland
-Este es mi proyecto final de python basico
+# Boto, el bot que te enseña de cambio climático (Bot para Discord)
+Este proyecto consiste en un bot para meter en cualquier canal de Discord para consientizar a los usuarios sobre este gran problema que esta destruyendo al mundo
+
+# Funcionalidades:
+-/
+
+# Tecnología
+-Codigo Python
+-Discord
